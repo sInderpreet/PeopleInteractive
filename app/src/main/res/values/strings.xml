@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shaadi</string>
+    <string name="text_accept">Accept</string>
+    <string name="text_decline">Decline</string>
+
+    <string name="user_name">%1$s %2$s</string>
+    <string name="user_age">%1$s yrs</string>
+    <string name="user_location">%1$s,%2$s</string>
+    <string name="text_error_message">Something went wrong.Please try again later</string>
+    <string name="text_response_message">Member %1$s the request.</string>
+    <string name="text_error_home">Error loading data. Please try again</string>
+</resources>
